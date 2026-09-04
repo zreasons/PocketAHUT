@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <strong>口袋安小工官方文档</strong>
+  <strong>口袋安小工官方文档 </strong>
 </p>
 
 <p align="center">
