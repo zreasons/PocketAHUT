@@ -37,10 +37,8 @@
 | ---------- | -------------- | ------------------------------------------------------------------------------------------------- |
 | Android    | 推荐使用       | 通过 [GitHub Releases](https://github.com/zreason-group/PocketAHUT/releases/) 下载 APK 安装包     |
 | 微信小程序 | 可用           | 微信内搜索「口袋安小工」                                                                          |
-| iOS        | 开发中         | 后续通过 [GitHub Releases](https://github.com/zreason-group/PocketAHUT/releases/) 分发 IPA 安装包 |
-| 网页端     | 可用（实验性） | 由 uni-app 编译的 H5 版本，可在支持的浏览器环境访问                                               |
+| iOS        |   IOSI可用      | 通过 [TestFlight](https://testflight.apple.com/join/qbP7gBXN) 安装 |
 
-> 我们预计将会逐步停止小程序的开发和维护，请新用户优先选择 Android 客户端。
 
 ## 核心功能
 
