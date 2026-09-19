@@ -23,6 +23,8 @@
   <a href="./features/index.md">功能总览</a>
 </p>
 
+![](/docs/public/screen.jpg)
+
 ---
 
 ## 项目简介
@@ -33,51 +35,47 @@
 
 ## 平台支持
 
-| 平台       | 当前状态       | 获取方式                                                                                          |
-| ---------- | -------------- | ------------------------------------------------------------------------------------------------- |
-| Android    | 推荐使用       | 通过 [GitHub Releases](https://github.com/zreason-group/PocketAHUT/releases/) 下载 APK 安装包     |
-| 微信小程序 | 可用           | 微信内搜索「口袋安小工」                                                                          |
-| iOS        |   IOSI可用      | 通过 [TestFlight](https://testflight.apple.com/join/qbP7gBXN) 安装 |
-
+| 平台       | 当前状态 | 获取方式                                                                                      |
+| ---------- | -------- | --------------------------------------------------------------------------------------------- |
+| Android    | 推荐使用 | 通过 [GitHub Releases](https://github.com/zreason-group/PocketAHUT/releases/) 下载 APK 安装包 |
+| 微信小程序 | 可用     | 微信内搜索「口袋安小工」                                                                      |
+| iOS        | 可用     | 通过 [TestFlight](https://testflight.apple.com/join/qbP7gBXN) 安装                            |
 
 ## 核心功能
 
 ### 教务学习
 
-- [课表管理](./features/schedule.md)：一键导入教务课表，快速查看每日课程安排。
+- [课程表](./features/schedule.md)：一键导入教务课表，快速查看每日课程安排。
 - [成绩查询](./features/grades.md)：同步成绩信息，辅助查看学习进展。
 - [考试安排](./features/exam.md)：集中查看期末考、补考等考试安排。
+- [空教室查询](./features/classroom.md)：按教学楼和时间段查找可用自习教室。
 - [培养方案](./features/training-plan.md)：查看培养方案与课程修读要求。
 - [教材查询](./features/textbooks.md)：查询课程教材相关信息。
-- [校历](./features/calendar.md)：学期关键节点月历展示，并与当日课表叠加查看。
+- [图书检索](./features/library.md)：检索馆藏图书，查看可借状态。
+- [学习通作业](./features/chaoxing.md)：查看超星学习通未完成作业。
+- [体测计算器](./features/fitness-test.md)：快速计算体测分数和等级。
 
 ### 校园生活
 
-- [宿舍签到](./features/dorm.md)：整合宿舍相关服务能力。
 - [电费查询](./features/electricity.md)：查询宿舍用电与电费余额。
-- [空教室查询](./features/classroom.md)：按教学楼和时间段查找可用教室。
+- [宿舍签到](./features/dorm.md)：整合宿舍相关服务能力。
 - [洗衣机查询](./features/laundry.md)：查看洗衣机空闲状态，减少来回等待。
-- [食堂菜品与打分](./features/canteen.md)：查看食堂菜品、窗口评分与干饭参考。
-- [校园新闻](./features/news.md)：获取校园新闻与公告动态。
 - [校园网](./features/network.md)：查询校园网账户状态、在线设备和上网记录。
-- [校园信息](./features/campus-info.md)：校园黄页，各部门联系方式、校车时刻等。
-
-### 实用工具
-
-- [体测计算器](./features/fitness-test.md)：快速计算体测分数和等级。
-- [图书馆检索](./features/library.md)：检索馆藏图书，查看可借状态。
+- [智慧控水](./features/wise.md)：扫码充值控制水控设备。
+- [食堂查询](./features/canteen.md)：查看食堂菜品、窗口评分与干饭参考。
 - [校园地图](./features/map.md)：校园地点检索与导航。
 
-### 个性化 & 我的
+### 资讯信息
+
+- [校园新闻](./features/news.md)：获取校园新闻与公告动态。
+- [校园信息](./features/campus-info.md)：校园黄页，各部门联系方式、校车时刻等。
+- [校历](./features/calendar.md)：学期关键节点月历展示，并与当日课表叠加查看。
+
+### 个人中心
 
 - [功能服务](./features/service.md)：底部「服务」Tab，按分类直达全部功能。
 - [个性化设置](./features/personalize.md)：首页功能区排序、字体、主题色系、安卓端设置与会员定时提醒。
 - [个人中心](./features/profile.md)：账号资料、绑定账号、关于我们、意见反馈与支持项目。
-
-### 规划中
-
-- [校园卡](./features/card.md)：校园卡相关能力规划中。
-- [消息通知](./features/notifications.md)：应用内公告已支持，完整推送能力规划中。
 
 ## 可绑定的学校系统
 
